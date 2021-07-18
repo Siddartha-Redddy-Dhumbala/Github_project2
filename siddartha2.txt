@@ -1,0 +1,4 @@
+
+With console. log() , you need to manually open the source code, find the relevant code, insert the console. log() statements,
+ and then reload the page in order to see the messages in the Console.
+ With breakpoints, you can pause on the relevant code without even knowing how the code is structured
